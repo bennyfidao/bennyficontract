@@ -1,2 +1,2 @@
 # bennyficontract
-Bennyfi contract
+Bennyfi decentralize blockchain application (DAPP)
